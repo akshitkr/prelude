@@ -30,4 +30,3 @@ transient/
 var/
 .cache/
 .lsp-session*
-sample/
